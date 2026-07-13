@@ -32,7 +32,7 @@ export default function PricelistPage() {
 
           <TabsContent value="tenda" className="mt-6">
             <div className="rounded-lg overflow-hidden">
-              <Image src="/images/pricelist1.jpg" alt="Pricelist Tenda" width={800} height={1000} className="w-full" />
+              <Image src="/images/PL.jpg" alt="Pricelist Tenda" width={800} height={1000} className="w-full" />
             
             </div>
           </TabsContent>
@@ -40,7 +40,7 @@ export default function PricelistPage() {
           <TabsContent value="cooking" className="mt-6">
             <div className="rounded-lg overflow-hidden">
               <Image
-                src="/images/pricelist2.jpg"
+                src="/images/PL2.jpg"
                 alt="Pricelist Cooking"
                 width={800}
                 height={1000}
